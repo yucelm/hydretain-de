@@ -18,7 +18,7 @@ export default function Home() {
       </span>
 
       <h1 className={styles.title}>
-        Wilkommen bei Hydretain DACH
+        Willkommen bei Hydretain DACH
       </h1>
 
       <h2 className={styles.titlem}>
