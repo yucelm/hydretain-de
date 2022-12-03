@@ -23,7 +23,7 @@ export default function Home() {
 
       <h2 className={styles.titlem}>
         Coming Soon...
-      </h2>
+      </h2> 
 
       </main>
 
