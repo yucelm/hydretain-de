@@ -122,6 +122,9 @@
     width: 100%;
     flex-direction: column;
   }
+  .hydretainlogo {
+    max-width: 60%;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
